@@ -26,6 +26,7 @@ TEST_TRACKIDS = {
     "dagstuhl_choirset": "DCS_LI_QuartetB_Take04_B2",
     "mdb_stem_synth": "AClassicEducation_NightOwl_STEM_08",
     "mir_1k": "amy_3_01",
+    "emvd": "Singer9_BlackShriek_Mid_i",
 }
 
 
